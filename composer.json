@@ -1,0 +1,10 @@
+{
+    "name": "phpsandbox/ci-test",
+    "authors": [
+        {
+            "name": "prof-anis",
+            "email": "tobexkee@gmail.com"
+        }
+    ],
+    "require": {}
+}
