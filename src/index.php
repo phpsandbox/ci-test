@@ -1,5 +1,10 @@
 <?php
-function double($arg) 
+
+namespace Phpsandbox\CI;
+
+class Math
 {
-	return 2 * $arg;
+	public function double($arg)
+
+	return 3 * $arg;
 }
