@@ -6,7 +6,7 @@ class Math
 {
 	public function double($arg)
 	{
-			return 4 * $arg;
+			return 1 * $arg;
 
 	}
 
