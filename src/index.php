@@ -1,2 +1,5 @@
 <?php
-echo "Hello PHPSandbox";
+function double($arg) 
+{
+	return 2 * $arg;
+}
