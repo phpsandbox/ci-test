@@ -4,7 +4,7 @@ namespace Phpsandbox\CI;
 
 class Math
 {
-	public function double($arg)
+	public function double($arg): int
 	{
 			return 3 * $arg;
 
