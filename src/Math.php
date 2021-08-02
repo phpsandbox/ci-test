@@ -9,5 +9,10 @@ class Math
 		return 2 * $arg;
 
 	}
+	
+	public function half($val)
+	{
+		return $val/2;
+	}
 
 }
